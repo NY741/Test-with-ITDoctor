@@ -2,3 +2,7 @@ body {
   background: #fff;
   box-sizing: border-box;
 }
+
+p {
+    margin-bottom: 15px;
+}
